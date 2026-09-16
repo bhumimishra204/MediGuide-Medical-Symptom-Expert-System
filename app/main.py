@@ -1,9 +1,11 @@
-import streamlit as st
+# import streamlit as st
 
-st.title("MediGuide")
-st.subheader("Medical Symptom Expert System")
+# st.title("MediGuide")
+# st.subheader("Medical Symptom Expert System")
 
-st.write(
-    "An educational AI-based system for symptom analysis "
-    "using a rule-based expert system."
-)
+# st.write(
+#     "An educational AI-based system for symptom analysis "
+#     "using a rule-based expert system."
+# )
+
+
